@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ruben Franco Sanchez
@@ -41,154 +41,96 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Finished CodeClan’s intensive software development course to complement previous skills in back end development. Making a 180 turn to my life and pursuing a dream. Strong full-stack skill set using Ruby, Java, JavaScript. Studying on my own C#, C++ and Unity. Passionate about software design, new technologies. Cannot wait to see my footprint in the future. I would love to work as part of an Agile environment that allows me to grow my skillset through continuous learning.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: SCQF Level 8 in Software Development
+      university: CodeClan (Edinburgh)
+      time: January/2019 - May/2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        It is an intensive course that helped me to develop coding skills, working understanding programming fundamentals, Agile methodologies, Test Driven Development and Object Oriented Programming, including Ruby, Java and JavaScript. I learnt how to work on projects (solo, in pairs and in groups) geared to actual systems used in Tech companies. I also worked towards and achieve a  PDA,  SCQF Level 8 in Software Development.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        -  Winner of Best Education / Training provider at the Scotland IS Digital Tech Awards 2017 and 2018.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Technical Support Agent
+      time: 2017 - 2019
+      company: Sykes, Edinburgh
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Providing Technical Support regarding computer software to both new and existing customers, troubleshooting by phone and e-mail and ensuring customer satisfaction while following specific guidelines set up by upper levels.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Manager
+      time: 2007 - 2009
+      company: GAME, Madrid
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Hiring and training staff members and organising shifts and holidays. Shop and stockroom management, as well as performing the store inventory. Achieving targets set by the company (increasing sales in a 100% during New Year campaign in 2008). Having to assist monthly in meetings with the other branch managers to keep track of the shops, videogames market and analyse their condition.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This are the projects I worked or I am working right now. Some of them are deploid on heroku. All of them are on my GitHub. Click on the titles to go the app or Git (depends if it is already deploid)
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Gym Project (Personal Project)
+        link: https://project-gym-codeclan.herokuapp.com/
+        tagline: "Used Ruby, HTML, CSS and SQL to create a Gym website to create, update and delete members, activities and letting the user to book activities for the members."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: CO2 Footprint (Group Project)
+        link: https://github.com/TeraRunner/personal_co2_footprint_checker
+        tagline: "Used JavaScript, HTML, CSS, API and MongoDB to create a website that can calculate your CO2 footprint, create registries and see them in a timetable."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Booking Projecj (Group Project)
+        link: https://github.com/PRudge/CC_FullStack_Booking_Project
+        tagline: "Used JavaScript, React, JAVA, Spring, HTML, CSS and SQL to create a website that can make bookings."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    # papers:
+    #   - title: The Art of Computer Programming
+    #     authors: Donald E. Knuth
+    #     conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Ruby
+        level: 80%
+
+      - name: Javascript, Node.js & React
+        level: 80%
+
+      - name: JAVA, IntelliJ & Spring
+        level: 80%
+
+      - name: C++, C#, Unity3D & Unreal (self-taught)
+        level: 25%
+
+      - name: HTML & CSS
+        level: 80%
+
+      - name: MongoDB, SQL & Sinatra
+        level: 80%
+
+      - name: Test Driven Development (TDD), Object Oriented Programming (OOP)
+        level: 80%
+
+      - name: SOLID principles, RESTful workflows/ REST APIs
+        level: 80%
+
+      - name: Agile development
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Pair & mob programming
         level: 98%
 
-      - name: Angular
+      - name: Development projects (solo, pair, group) > GitHub
         level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
