@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: rubenfrancosanchez@hotmail.es
+    email: francosanchezruben@gmail.com
     phone: +44 754 660 5517
     website: #do not add http://
     linkedin: rubenfrancosanchez
@@ -68,7 +68,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      This are the projects I worked or I am working right now. Some of them are deploid on heroku. All of them are on my GitHub. Click on the titles to go the app or Git (depends if it is already deploid)
+      These are the projects I worked or I am working right now. Some of them are deploid on heroku. All of them are on my GitHub. Click on the titles to go the app or Git (depends if it is already deployed)
 
     assignments:
       - title: Gym Project (Personal Project)
