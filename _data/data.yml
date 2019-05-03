@@ -48,7 +48,7 @@ education:
       university: CodeClan (Edinburgh)
       time: January/2019 - May/2019
       details: |
-        It is an intensive course that helped me to develop coding skills, working understanding programming fundamentals, Agile methodologies, Test Driven Development and Object Oriented Programming, including Ruby, Java and JavaScript. I learnt how to work on projects (solo, in pairs and in groups) geared to actual systems used in Tech companies. I also worked towards and achieve a  PDA,  SCQF Level 8 in Software Development.
+         An intensive course that helped me to develop coding skills, working understanding programming fundamentals, Agile methodologies, Test Driven Development and Object Oriented Programming, including Ruby, Java and JavaScript. I learnt how to work on projects (solo, in pairs and in groups) geared to actual systems used in Tech companies. I also worked towards and achieve a  PDA,  SCQF Level 8 in Software Development.
 
         -  Winner of Best Education / Training provider at the Scotland IS Digital Tech Awards 2017 and 2018.
 
@@ -79,7 +79,7 @@ projects:
         link: https://github.com/TeraRunner/personal_co2_footprint_checker
         tagline: "Used JavaScript, HTML, CSS, API and MongoDB to create a website that can calculate your CO2 footprint, create registries and see them in a timetable."
 
-      - title: Booking Projecj (Group Project)
+      - title: Booking Project (Group Project)
         link: https://github.com/PRudge/CC_FullStack_Booking_Project
         tagline: "Used JavaScript, React, JAVA, Spring, HTML, CSS and SQL to create a website that can make bookings."
 
