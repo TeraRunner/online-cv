@@ -44,7 +44,7 @@ career-profile:
       Finished CodeClan’s intensive software development course to complement previous skills in back end development. Making a 180 turn to my life and pursuing a dream. Strong full-stack skill set using Ruby, Java, JavaScript. Studying on my own C#, C++ and Unity. Passionate about software design, new technologies. Cannot wait to see my footprint in the future. I would love to work as part of an Agile environment that allows me to grow my skillset through continuous learning.
 
 education:
-      degree: SCQF Level 8 in Software Development
+    - degree: SCQF Level 8 in Software Development
       university: CodeClan (Edinburgh)
       time: January/2019 - May/2019
       details: |
