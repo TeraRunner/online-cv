@@ -76,7 +76,7 @@ projects:
         tagline: "Used Ruby, HTML, CSS and SQL to create a Gym website to create, update and delete members, activities and letting the user to book activities for the members."
 
       - title: CO2 Footprint (Group Project)
-        link: https://github.com/TeraRunner/personal_co2_footprint_checker
+        link: https://co2footprint.herokuapp.com/
         tagline: "Used JavaScript, HTML, CSS, API and MongoDB to create a website that can calculate your CO2 footprint, create registries and see them in a timetable."
 
       - title: Booking Project (Group Project)
