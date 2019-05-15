@@ -83,9 +83,9 @@ projects:
         link: https://github.com/PRudge/CC_FullStack_Booking_Project
         tagline: "Used JavaScript, React, JAVA, Spring, HTML, CSS and SQL to create a website that can make bookings."
 
-      - title: Roguelike using Unity3D (Pair Project):
+      - title: Roguelike using Unity3D (Pair Project)
         link: https://github.com/MotxoGames/Roguelike
-        tagline: Using C# and Unity3D to create a game to test our abilities and improve ourselves.
+        tagline: "Using C# and Unity3D to create a game to test our abilities and improve ourselves."
 
 
 
